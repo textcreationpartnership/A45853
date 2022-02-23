@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An incomparable collection of original paintings, and others by the best masters both ancient and modern, some whereof are part of the collection of a person of quality. The masters names are Sir P. Paul Ruben Sir Ant. Van Dyck Rembrandt Breughel ... will be sold at auction at VVills coffee-house at the west-end of the Court of Requests, over against the painted Chamber, near VVestminster-hall, on Monday the 22d. of this instant February, 1691. and the following days till all are sold; and then will conclude (this season) the sale of paintings at Westminster. The sale beginning at ten of the clock in the morning. By John Bullord.</title>
+            <author>Bullord, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45853</idno>
+            <idno type="STC">Wing I138</idno>
+            <idno type="STC">ESTC R223682</idno>
+            <idno type="EEBO-CITATION">99833968</idno>
+            <idno type="PROQUEST">99833968</idno>
+            <idno type="VID">38447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1834:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An incomparable collection of original paintings, and others by the best masters both ancient and modern, some whereof are part of the collection of a person of quality. The masters names are Sir P. Paul Ruben Sir Ant. Van Dyck Rembrandt Breughel ... will be sold at auction at VVills coffee-house at the west-end of the Court of Requests, over against the painted Chamber, near VVestminster-hall, on Monday the 22d. of this instant February, 1691. and the following days till all are sold; and then will conclude (this season) the sale of paintings at Westminster. The sale beginning at ten of the clock in the morning. By John Bullord.</title>
+                  <author>Bullord, John.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed gratis at the coffee-houses in Westminster-hall, and at the place of sale. The conditions as usual,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The date is given according to Lady Day dating.</note>
+                  <note>Pagination begins on verso of title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38447:1"/>
+            <pb facs="tcp:38447:1" rendition="simple:additions"/>
+            <p>An Incomparable COLLECTION OF Original Paintings, And others; By the Beſt Maſters both An<g ref="char:EOLhyphen"/>cient and Modern, ſome whereof are part of the Collection of a Perſon of Quality.</p>
+            <p>The Maſters Names<g ref="char:punc">▪</g> are
+<list>
+                  <item>Sir <hi>P. Paul Ruben</hi>
+                  </item>
+                  <item>Sir <hi>Ant. Van Dyck</hi>
+                  </item>
+                  <item>
+                     <hi>Rembrandt</hi>
+                  </item>
+                  <item>
+                     <hi>Breughel</hi>
+                  </item>
+                  <item>
+                     <hi>Bergham</hi>
+                  </item>
+                  <item>
+                     <hi>Jourdan</hi>
+                  </item>
+                  <item>
+                     <hi>Romulus Aquinus</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Moore</hi>
+                  </item>
+                  <item>
+                     <hi>Albert Durer</hi>
+                  </item>
+                  <item>
+                     <hi>Den Bos</hi>
+                  </item>
+                  <item>
+                     <hi>Van Cole</hi>
+                  </item>
+                  <item>
+                     <hi>Woolfert</hi>
+                  </item>
+                  <item>
+                     <hi>Floerteer</hi>
+                  </item>
+                  <item>
+                     <hi>Goltzius</hi>
+                  </item>
+                  <item>
+                     <hi>Halſe</hi>
+                  </item>
+                  <item>Old <hi>Molinus</hi>
+                  </item>
+                  <item>
+                     <hi>Vander Bergh</hi>
+                  </item>
+                  <item>
+                     <hi>Brower</hi>
+                  </item>
+                  <item>
+                     <hi>Van Troyen</hi>
+                  </item>
+                  <item>
+                     <hi>Van Goyen</hi>
+                  </item>
+                  <item>
+                     <hi>Bot</hi>
+                  </item>
+                  <item>
+                     <hi>Hondius</hi>
+                  </item>
+                  <item>
+                     <hi>Vandevelde</hi>
+                  </item>
+                  <item>
+                     <hi>Griffiere</hi>
+                  </item>
+                  <item>
+                     <hi>Hemskirk</hi>
+                  </item>
+                  <item>
+                     <hi>Bogdan</hi>
+                  </item>
+                  <item>
+                     <hi>Houſman</hi>
+                  </item>
+                  <item>
+                     <hi>Verelſt</hi>
+                  </item>
+                  <item>
+                     <hi>Vander Meer</hi>
+                  </item>
+                  <item>
+                     <hi>Van Dieſt</hi>
+                  </item>
+                  <item>
+                     <hi>Wagener</hi>
+                  </item>
+                  <item>
+                     <hi>Henny,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>Will be Sold by AUCTION at <hi>VVills</hi> Coffee-houſe at the Weſt-end of the <hi>Court of Requeſts,</hi> over againſt the <hi>Painted Chamber,</hi> near <hi>VVeſtminſter-hall,</hi> on <hi>Monday</hi> the 22d. of this inſtant <hi>February,</hi> 1691. and the fol<g ref="char:EOLhyphen"/>lowing Days till all are ſold; and then will conclude (this Seaſon) the Sale of Paintings at <hi>Weſtminſter.</hi> The Sale beginning at Ten of the Clock in the Morning.</p>
+            <p>By <hi>JOHN B<g ref="char:V">Ʋ</g>LLORD.</hi>
+            </p>
+            <p>Catalogues are Diſtributed <hi>Gratis</hi> at the Coffee-houſes in <hi>Weſtminſter-hall,</hi> and at the place of Sale.</p>
+            <p>The Conditions as uſual</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb n="1" facs="tcp:38447:2" rendition="simple:additions"/>
+            <head>PAINTINGS and LIMNINGS,</head>
+            <list>
+               <item>1 A Sea piece curiouſly done by <hi>Robinſon</hi>
+               </item>
+               <item>2 a Froſt Piece by <hi>Vander Stratten</hi>
+               </item>
+               <item>3 an original Landskip by an <hi>Italian</hi>
+               </item>
+               <item>4 a curious proſpect on board by <hi>Kickheer</hi>
+               </item>
+               <item>5 a Winter piece by a <hi>Dutch</hi> Maſter</item>
+               <item>6 a Landskip curiouſly painted</item>
+               <item>7 a ſmall Carpet finely painted</item>
+               <item>8 a piece of Still life by a good hand</item>
+               <item>9 a Sea Fight by <hi>Salemaker</hi>
+               </item>
+               <item>10 a <hi>Dutch</hi> Duty by <hi>Hemskirk</hi>
+               </item>
+               <item>11 a winter piece by old <hi>Molinus</hi>
+               </item>
+               <item>12 a ſet of fine engraven glaſſes for a ſide board Table</item>
+               <item>13 a man a reading by old <hi>Hemskirk</hi>
+               </item>
+               <item>14 a Sea ſtorm by <hi>Salemaker</hi>
+               </item>
+               <item>15 a piece of Figures the manner of <hi>Brughel</hi>
+               </item>
+               <item>16 another by the ſame Maſter</item>
+               <item>17 a Droll piece ſuppoſed by <hi>Brower</hi>
+               </item>
+               <item>18 a Landskip with figures finely painted by <hi>Van Dieſt</hi>
+               </item>
+               <item>19 a Froſt piece curiouſly Printed by a <hi>Dutch</hi> Maſter</item>
+               <item>20 a Landskip with figures by an Italian</item>
+               <item>21 a Quakers meeting on Copper by old <hi>Hemskirk</hi>
+               </item>
+               <item>22 a Hiſtory piece by <hi>Marah</hi>
+               </item>
+               <item>23 a piece of Fruit by <hi>Vander Meer</hi>
+               </item>
+               <item>24 <hi>Venus</hi> and a Satyr finely painted</item>
+               <item>25 <hi>Lot</hi> and his two Daughter by <hi>Bryan</hi>
+               </item>
+               <item>26 a head will Painted</item>
+               <item>27 <hi>Anthony Mores</hi> head done by himſelf</item>
+               <item>28 a piece of Still life finely painted</item>
+               <item>29 a dead Hare well done by a great Maſter</item>
+               <item>30 a piece of Fruit by <hi>Van Brughen</hi>
+               </item>
+               <item>31 a head by <hi>Rembrant</hi>
+               </item>
+               <item>32 King <hi>William</hi> finely painted</item>
+               <item>33 a curious Landskip by <hi>Bergham</hi>
+               </item>
+               <item>34 a Landskip with <hi>Venus</hi> &amp; <hi>Cupid</hi> &amp;c. an orig. painted by an <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>35 <hi>Meleager</hi> &amp; <hi>Diana</hi> by that great Maſter <hi>Rubens</hi>
+               </item>
+               <item>36 St. <hi>James</hi> the Apoſtle by <hi>Jordan</hi>
+               </item>
+               <item>37 <hi>Mary Magdalen</hi> by <hi>Spekerman</hi>
+               </item>
+               <item>38 The Princeſs of <hi>Newburgh</hi> by <hi>Lyſter</hi>
+               </item>
+               <item>39 a Landskip curiouſly painted by <hi>Van Goſhen</hi>
+               </item>
+               <item>40 a curious Hiſtory piece by <hi>Romulus Aquinos</hi>
+               </item>
+               <item>41 <hi>Democrates</hi> the Philoſopher by <hi>Hemskirk</hi>
+               </item>
+               <item>42 The Virgin <hi>Mary</hi> &amp; our Saviour by <hi>De Vos</hi>
+               </item>
+               <item>43 a Converſation piece an original</item>
+               <item>44 <hi>Mercury</hi> &amp; <hi>Argus</hi> very fine</item>
+               <item>45 a Landskip full of figures by <hi>Housman</hi>
+               </item>
+               <item>46 a Robery finely painted by <hi>Van Ruſt</hi>
+               </item>
+               <item>47 a Fiſhing piece by <hi>Sailmaker</hi>
+               </item>
+               <item>48 a Landskip with the Hiſt of <hi>Judith</hi> &amp; <hi>Tamer</hi> by <hi>Den Bos</hi>
+               </item>
+               <pb n="2" facs="tcp:38447:2"/>
+               <item>49 Sir <hi>Walter Rawleighs</hi> head by <hi>Anthony Moor</hi>
+               </item>
+               <item>50 A large Landskip on board curiouſly painted by <hi>Van Goyen</hi>
+               </item>
+               <item>51 A piece of Vanity by <hi>Hagar Stratten</hi>
+               </item>
+               <item>52 A ſet of curious engraven Glaſſes for a ſide board Table</item>
+               <item>53 a Landskip by <hi>Leonard</hi>
+               </item>
+               <item>54 Another by the ſame maſter</item>
+               <item>55 Chriſts Reſurrection by <hi>Albert Durer</hi>
+               </item>
+               <item>56 a Pickle herring by old <hi>Barkham</hi>
+               </item>
+               <item>57 <hi>Heraclitus</hi> the Philoſ. by <hi>Hemskirk</hi>
+               </item>
+               <item>58 <hi>Neptune</hi> curiouſly painted by <hi>Jordan</hi>
+               </item>
+               <item>59 a Landskip by <hi>Elstade</hi>
+               </item>
+               <item>60 A ſleeping <hi>Venus</hi> by an Italian</item>
+               <item>61 a winter piece by <hi>Larue</hi>
+               </item>
+               <item>62 A ſmall Landskip with figures</item>
+               <item>63 an Italian Landskip by a great maſt.</item>
+               <item>64 A ſmall piece of Stag hunting</item>
+               <item>65 a Sea port finely painted</item>
+               <item>66 A curious Landskip by <hi>Bott</hi>
+               </item>
+               <item>67 a piece of Painting by <hi>Vander Borgh</hi>
+               </item>
+               <item>68 a Landskip with ruines by <hi>Houſman</hi>
+               </item>
+               <item>69 A ſmall winter piece finely painted</item>
+               <item>70 A ſmall Froſt piece by a great maſter</item>
+               <item>71 a Sick man making his Will, by <hi>Hemsk.</hi>
+               </item>
+               <item>72 a Proſpect of a Church, by <hi>Kickkeer</hi>
+               </item>
+               <item>73 a Landskip with figures by a D. maſt.</item>
+               <item>74 a Winter piece well painted</item>
+               <item>75 A curious Landskip by <hi>Vanderſtratten</hi>
+               </item>
+               <item>76 a Roman ruine by an Italian</item>
+               <item>77 a Night piece an original well painted</item>
+               <item>78 Chancellor <hi>Finch</hi> in Cryons</item>
+               <item>79 a fine head of <hi>Cornelius Hall</hi>
+               </item>
+               <item>80 an old womans head by <hi>Rembrandt</hi>
+               </item>
+               <item>81 a Fruit piece by <hi>Guilman</hi>
+               </item>
+               <item>82 a Battle finely painted by <hi>Van Boſs</hi>
+               </item>
+               <item>83 a Landskip by <hi>Griffier</hi>
+               </item>
+               <item>84 a Landskip by a great maſter</item>
+               <item>85 a mans head by <hi>Rembrant</hi>
+               </item>
+               <item>86 a Fruit piece by <hi>Vander Meer</hi>
+               </item>
+               <item>87 a curious Landskip by an Italian</item>
+               <item>88 a Grace piece by old <hi>Hemskirk</hi>
+               </item>
+               <item>89 A piece of Still-life by <hi>Van Sutton</hi>
+               </item>
+               <item>90 A piece of Fowls incomparably done</item>
+               <item>91 a Fruit piece by <hi>Verelſt</hi>
+               </item>
+               <item>92 a Landskip by <hi>Vander Stratten</hi>
+               </item>
+               <item>93 a Sea port by a good maſter</item>
+               <item>94 a ſmall Sea piece by <hi>Sailmaker</hi>
+               </item>
+               <item>95 The Daught. of <hi>Fr. Halſt</hi> the Painter by <hi>Henny</hi>
+               </item>
+               <item>96 a Muſical piece curiouſly painted by an Ital<g ref="char:punc">▪</g>
+               </item>
+               <item>97 A piece of Flowers finely painted</item>
+               <item>98 A piece of Fruit by a great maſter</item>
+               <pb n="3" facs="tcp:38447:3"/>
+               <item>99 a Man courting his Miſtris</item>
+               <item>(100 a Landskip after <hi>Voſterman</hi>
+               </item>
+               <item>(101 a Womans head ſuppoſed by <hi>Dobſon</hi>
+               </item>
+               <item>(102 a Country Fair by <hi>Brughel</hi>
+               </item>
+               <item>(103 a Sea piece by <hi>Bonaventure Peters</hi>
+               </item>
+               <item>100 <hi>Achilles</hi> among the Daugh. of <hi>Agamemnon</hi> by <hi>Sebaſtian</hi>
+               </item>
+               <item>101 a grace piece by old <hi>Hemskirk</hi>
+               </item>
+               <item>102 a piece of Still life anoriginal finely done</item>
+               <item>103 a Landskip by <hi>De Groat</hi>
+               </item>
+               <item>104 a Winter piece by a good hand</item>
+               <item>105 a Landskip by <hi>Larue</hi>
+               </item>
+               <item>106 a Story in <hi>Ovid</hi> by an <hi>Italian</hi>
+               </item>
+               <item>107 the Earl of St. <hi>Albans</hi> head well painted</item>
+               <item>108 Our Saviour feeding the Multiude</item>
+               <item>109 a Sea Fight between the <hi>French</hi> &amp; <hi>Eng.</hi> by <hi>Sailmaker</hi>
+               </item>
+               <item>110 a Sea pieee well done by <hi>Vande Velde</hi>
+               </item>
+               <item>111 a Landskip curiouſly painted by <hi>Wooterſon</hi>
+               </item>
+               <item>112 St. <hi>Jerome</hi> by <hi>Hemskirk</hi>
+               </item>
+               <item>113 a Rabit &amp; Fowls well done by <hi>Van Haghen</hi>
+               </item>
+               <item>114 <hi>Venus</hi> &amp; <hi>Cupid</hi> finely finiſhed</item>
+               <item>115 a Sea piece by a Dutch Maſter</item>
+               <item>116 a Fruit piece neatly painted</item>
+               <item>(117 a piece of Fruit by Mr. <hi>Bogdan</hi>
+               </item>
+               <item>(118 a piece repreſenting Hell full of Figures</item>
+               <item>(119 a Landskip with Figures by <hi>De Keyſer</hi>
+               </item>
+               <item>117 a curious proſpect through a Rock by <hi>Van Troyen</hi>
+               </item>
+               <item>118 a half length poſtureby a Diſciple of <hi>Lilly</hi>
+               </item>
+               <item>119 a ſmall Landskip curiouſly done by <hi>Brughel</hi>
+               </item>
+               <item>120 a Landskip curiouſly painted by <hi>Waggoner</hi>
+               </item>
+               <item>121 a large ſix leaved Screen done by the ſame maſter</item>
+               <item>122 a curious Landskip with figures by <hi>Van Cole</hi>
+               </item>
+               <item>123 a large Landskip with Cattle by <hi>Woolfert</hi>
+               </item>
+               <item>124 a man &amp; his Mrs. playing at Tables by <hi>Halſe</hi>
+               </item>
+               <item>125 an extraordinary Landskip by <hi>Anglois</hi>
+               </item>
+               <item>126 <hi>Cupid</hi> repreſenting Time by <hi>Golizius</hi>
+               </item>
+               <item>127 The Virgin <hi>Mary</hi> by <hi>Hookgeſt</hi>
+               </item>
+               <item>128 a Landskip finely painted by <hi>Bot</hi>
+               </item>
+               <item>129 The Salutation on Copper by <hi>Van Heyden</hi>
+               </item>
+               <item>130 a Fruit piece by <hi>Verelſt</hi>
+               </item>
+               <item>131 a Landskip by a great Maſter</item>
+               <item>132 a Landskip by <hi>Molinus</hi>
+               </item>
+               <item>133 The Circumciſion of Our Saviour</item>
+               <item>134 St. <hi>Jerome</hi> by old <hi>Hemskirk</hi>
+               </item>
+               <item>(132 a piece of flowers by <hi>William Verelſt</hi>
+               </item>
+               <item>(133 a Curious piece of Birds and Beaſt</item>
+               <item>(135 K. <hi>William</hi> when Prince of <hi>Orange</hi> ſuppoſed by <hi>Wiſſen</hi>
+               </item>
+               <item>135 a piece of Still life with Crabs by that gr. Mr. <hi>Bogdan</hi>
+               </item>
+               <item>136 a large Carmiſh or Dutch Fair with figures by that great maſter <hi>Brughel</hi>
+               </item>
+               <item>137 a Chymiſt an orig. finely painted by a great maſter</item>
+               <item>138 a Landskip with a Ruin curiouſly painted</item>
+            </list>
+            <pb facs="tcp:38447:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
